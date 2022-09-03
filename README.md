@@ -30,7 +30,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
 	<li><a href="#problem">Problem</a></li>
-    <li><a href="#member">Member</a></li>
+   
     
   </ol>
 </details>
