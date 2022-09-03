@@ -245,4 +245,4 @@ How to run our APP.
 * In subsequent development, we will store the machine learning content in a local database so that users can search for ingredients without having to connect to the network, and we will present details for all ingredients.
 
 
->>>>>>> 3bb63ccf002bdb51cf4d2ec024585a345792d106
+
